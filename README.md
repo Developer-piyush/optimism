@@ -151,7 +151,7 @@ Branches marked `release/X.X.X` are **release candidate branches**.
 Changes that are not backwards compatible and all changes to contracts within `packages/contracts/contracts` MUST be directed towards a release candidate branch.
 Release candidates are merged into `develop` and then into `master` once they've been fully deployed.
 We may sometimes have more than one active `release/X.X.X` branch if we're in the middle of a deployment.
-See table in the **Active Branches** section above to find the right branch to target.
+See table in the **Active Branches** section above to find the right branch to target..
 
 ### Releasing new versions
 
